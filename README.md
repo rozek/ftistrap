@@ -20,6 +20,8 @@ This page describes the "FTIStrap", a RepStrap [1,2] which is almost completely 
   <img src="320px-FTIStrap_printing_Funnel.jpg"><br>The current FTIStrap printing a funnel
 </td></tr></tbody></table> 
 
+<br style="clear:left">
+
 <table align="left"><tbody><tr><td>
   <img src="320px-Cup_cropped.jpg"><br>A small coffee mug printed with the FTIStrap (in two steps: the handle was printed separately and then manually pasted onto the cup - that step was less precise than the actual printing) The battery next to the cup is an AA type (Mignon)
 </td></tr></tbody></table> 
