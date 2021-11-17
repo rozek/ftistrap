@@ -15,8 +15,8 @@ This page describes the "FTIStrap", a RepStrap [1,2] which is almost completely 
 <table style="margin-right:10px"><tbody>
   <tr><td>
     <img src="320px-FTIStrap_01.jpg"><br>An overview of (an earlier version of) the FTIStrap
-  </td></tr>
-  <tr><td>
+  </td>
+  <td>
     <img src="320px-FTIStrap_printing_Funnel.jpg"><br>The current FTIStrap printing a funnel
   </td></tr>
 </tbody></table> 
