@@ -3,7 +3,7 @@
 a fully functional 3D printer made with fischertechnik
 
 This page describes the "FTIStrap", a RepStrap [1,2] which is almost completely built from fischertechnik [3] parts. Constructing an FTIStrap neither needs any special expertise nor any special tools and can usually be completed within a single working day. All parts can either be ordered online or found in many stores in your neighbourhood. After printing the parts for a RepRap the FTIStrap may even be disassembled again and its parts used for other projects.
-<table style="float:right; margin-left:10px"><tbody><tr><td>
+<table align="right" style="float:right; margin-left:10px"><tbody><tr><td>
   <img src="128px-FTIStrap-Logo.png"><br>FTIStrap-Logo
 </td></tr></tbody></table> 
 
