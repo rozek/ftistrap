@@ -12,13 +12,14 @@ This page describes the "FTIStrap", a RepStrap [1,2] which is almost completely 
 
 > Note: this documentation is currently _in progress_ - do not expect it to be finished before end of November
 
-<table style="margin-right:10px"><tbody><tr><td>
-  <img src="320px-FTIStrap_01.jpg"><br>An overview of (an earlier version of) the FTIStrap
-</td></tr></tbody></table> 
-
-<table style="margin-right:10px"><tbody><tr><td>
-  <img src="320px-FTIStrap_printing_Funnel.jpg"><br>The current FTIStrap printing a funnel
-</td></tr></tbody></table> 
+<table style="margin-right:10px"><tbody>
+  <tr><td>
+    <img src="320px-FTIStrap_01.jpg"><br>An overview of (an earlier version of) the FTIStrap
+  </td></tr>
+  <tr><td>
+    <img src="320px-FTIStrap_printing_Funnel.jpg"><br>The current FTIStrap printing a funnel
+  </td></tr>
+</tbody></table> 
 
 <span clear="both"></span>
 
