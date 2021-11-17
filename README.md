@@ -22,7 +22,7 @@ This page describes the "FTIStrap", a RepStrap [1,2] which is almost completely 
 
 <span clear="both"></span>
 
-<table align="left" width=320><tbody><tr><td>
+<table align="left" style="width:320px"><tbody><tr><td>
   <img src="320px-Cup_cropped.jpg"><br>A small coffee mug printed with the FTIStrap (in two steps: the handle was printed separately and then manually pasted onto the cup - that step was less precise than the actual printing) The battery next to the cup is an AA type (Mignon)
 </td></tr></tbody></table> 
 
